@@ -89,7 +89,7 @@ For more information on the issue, see the official WebStorm YouTrack issue:
 
 ### Screenshot
 
-![Type Mismatch Error](./path_to_image.png)
+![Type Mismatch Error](./img.png)
 
 ## Environment
 
